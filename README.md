@@ -17,7 +17,7 @@ Jupyter Lab을 열고 docker_file_test폴더를 만든 뒤, 여기에 해당 링
 다시 Jupyter Lab에서 나와서 ipynb파일을 하나 만든 뒤 아래의 명령어로 디렉토리의 위치를 옮겨준다.
 
 ~~~
-cd docker_file_test
+cd docker_test_test
 ~~~
 
 제대로 이동했는지 확인하자.
