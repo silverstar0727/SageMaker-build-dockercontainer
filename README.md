@@ -11,7 +11,7 @@ SageMaker에서 custom model의 docker container를 빌드하자!
 우선 AWS SageMaker에 접속하여 노트북 인스턴스를 생성한다. 이때 주의해야할 점은 생성한 IAM role에서 AmazonEC2ContainerRegistryFullAccess 해당 정책을 추가해주어야 한다. 추가는 다음의 [링크](https://console.aws.amazon.com/iam/home)에서 하면 된다.
 
 #### Jupyter Lab에서 Dockerfile과 train.py 생성
-Jupyter Lab을 열고 docker_file_test폴더를 만든 뒤, 여기에 해당 링크의 파일들을 넣어주자.
+Jupyter Lab을 열고 docker_file_test폴더를 만든 뒤, 여기에 해당 [링크](https://github.com/silverstar0727/SageMaker-build-dockercontainer)의 파일들을 넣어주자.
 
 #### build docker container
 다시 Jupyter Lab에서 나와서 ipynb파일을 하나 만든 뒤 아래의 명령어로 디렉토리의 위치를 옮겨준다.
