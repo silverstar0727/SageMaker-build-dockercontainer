@@ -1,4 +1,4 @@
-# SageMaker-build-dockercontainer
+# build-container-onSageMaker
 SageMaker에서 custom model의 docker container를 빌드하자!
 
 1. AWS SageMaker에서 notebook 생성
